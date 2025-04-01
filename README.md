@@ -13,8 +13,8 @@
 ### 2. 1 Crie um algoritmo para listar:
 [Arquivo Javascript com a lógica (diretório: ./assets/js)](assets/js/algorithms.js)
 
-- 👉 Pessoa com ID = 2.
-- 👉 Listagem de pessoas em ordem crescente de idade com o número do CPF.
-- 👉 Pessoas com idade superior a 50 anos.
-- 👉 Pessoas que não possuem CPF.
+- 👉 Pessoa com ID = 2;
+- 👉 Listagem de pessoas em ordem crescente de idade com o número do CPF;
+- 👉 Pessoas com idade superior a 50 anos;
+- 👉 Pessoas que não possuem CPF;
 - 👉 Listagem de tipos de documentos.
