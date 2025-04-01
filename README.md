@@ -6,6 +6,9 @@
 
 [Arquivo JSON (diretório: ./assets/data)](assets/data/table.json)
 
+![image](https://github.com/user-attachments/assets/af22f56e-b180-4287-8d4d-805a66217807)
+
+
 
 ### 2. 1 Crie um algoritmo para listar:
 [Arquivo Javascript com a lógica (diretório: ./assets/js)](assets/js/algorithms.js)
